@@ -8,6 +8,7 @@ def key_for_min_value(name_hash)
       nil
     else
       value.reverse
+    end
       name.last
 
 end
